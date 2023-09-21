@@ -1,2 +1,2 @@
-# Code_Clause_Internship-TASK-1
-This is the TASK 1 of Code_Clause Internship. Here I deployed a Restaurants Landing Page.
+# Code_Clause_Internship-TASK-2
+This is the TASK 2 of Code_Clause Internship. Here I deployed a URL Shortener Website.
