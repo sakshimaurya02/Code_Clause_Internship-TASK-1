@@ -5,9 +5,9 @@ An **URL shortener** is a website that reduces the length of your URL (Uniform R
 
 
 **Usage**
-Open your web browser and go to http://localhost:3000.
-Enter a long URL in the input field and click the "Shorten" button.
-The shortened URL will be displayed, and you can copy it to share.
+>Open your web browser and go to http://localhost:3000.
+>Enter a long URL in the input field and click the "Shorten" button.
+>The shortened URL will be displayed, and you can copy it to share.
 
 
 **Features**
