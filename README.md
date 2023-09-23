@@ -17,7 +17,7 @@ An **URL shortener** is a website that reduces the length of your URL (Uniform R
 
 
 **Contributing**
-Feel free to contribute to this project. You can submit bug reports, feature requests, or even pull requests to improve the code. If you would like to make significant changes, please open an issue first to discuss it.
+>Feel free to contribute to this project. You can submit bug reports, feature requests, or even pull requests to improve the code. If you would like to make significant changes, please open an issue first to discuss it.
 
 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+>This project is licensed under the MIT License - see the LICENSE file for details.
